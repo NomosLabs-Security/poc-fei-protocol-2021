@@ -1,0 +1,6 @@
+[profile.default]
+src = "src"
+out = "out"
+libs = ["lib"]
+# Fei Protocol — Rari Fuse pool reentrancy — April 2022
+fork_block_number = 14684813
